@@ -1,0 +1,35 @@
+Project Description
+We decided to focus our project on Traffic Flow in Seattle since it is a major issue here. 
+Looking through all the datasets Seattle has to offer, our dataset ended up landing on traffic flows. 
+This was accessible through API links as well as data.seattle.gov. 
+The four datasets that looked the most relatable to this project included; SDOT Traffic Signals, 
+a table on traffic injuries in 2015, Traffic Flow, and Bike Racks within Downtown Seattle. 
+This information is useful because the coordinates of what was needed could be found and gave 
+us important information we could incorporate within our own design. 
+Our target audience is based on people looking through Seattle based on traffic flows. 
+We can expand this however to incorporate parts that highlight our other datasets as well. 
+Aside from traffic flows, we have datasets pertaining to bike racks, traffic signals, 
+and any injuries that may have occurred. The injuries may not be as commonly looked at within our dataset, 
+however, our other datasets can heavily relate to people within the greater Seattle community. 
+Even at UW, it is fairly obvious that most people ride bikes to get around campus. 
+It’s also important to know where the traffic lights are placed within the area 
+since sometimes people go a route to avoid signals in order to go faster. 
+Overall, our audience is centered towards those who are planning to get around the Seattle area. 
+	By the end someone should be able to know how to do 3 separate things. 
+  1) How can they find the traffic signals in Seattle, 
+  2) How the daily traffic flows and the route they’re going looks like, and 
+  3) Where bike racks in downtown Seattle can be found. Our audience will be able to learn these 3 things because our project will focus on this. 
+
+Technical Description
+	The format of our final product might be an app or HTML page in order to showcase what we have designed. 
+  We have decided to use an API in order to sort our data. 
+  Most of our data can be found through data.seattle.gov, which is how we consolidated what we should create. 
+  We are still looking into how we can use data-wrangling to create our project but at the moment we are debating 
+  about using reformatting. Our questions we have do not need a probability, since they will have factual evidence. 
+  We can use that in order to find out the information needed related to traffic flows. 
+  We may have technical questions related to setting up our data better and creating a set to make the data look concise. 
+  I believe any problems we may run into would simply include setting up the data properly and making sure that there wasn’t 
+  any easy mistakes causing our setup to crash. As long as our code works properly and we can use the API we need, 
+  we should be able to function perfectly. 
+
+
